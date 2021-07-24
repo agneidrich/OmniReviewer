@@ -1,0 +1,117 @@
+.root {
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  width: 200px;
+}
+.root > :global(.__wab_flex-container) {
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin-left: calc(0px - 8px);
+  width: calc(100% + 8px);
+}
+.root > :global(.__wab_flex-container) > *,
+.root > :global(.__wab_flex-container) > :global(.__wab_slot) > * {
+  margin-left: 8px;
+}
+.freeBox {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+}
+.freeBox > :global(.__wab_flex-container) {
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+  margin-left: calc(0px - 5px);
+  width: calc(100% + 5px);
+}
+.freeBox > :global(.__wab_flex-container) > *,
+.freeBox > :global(.__wab_flex-container) > :global(.__wab_slot) > * {
+  margin-left: 5px;
+}
+.svg__iwzjY {
+  position: relative;
+  object-fit: cover;
+  width: 14px;
+  height: 14px;
+  color: rgb(239, 206, 74) /* plasmic-token: Kph4y8mx9bZgHG */;
+  flex-shrink: 0;
+}
+.svg__dvd1Q {
+  position: relative;
+  object-fit: cover;
+  width: 14px;
+  height: 14px;
+  color: rgb(239, 206, 74) /* plasmic-token: Kph4y8mx9bZgHG */;
+  flex-shrink: 0;
+}
+.svg___97Enb {
+  position: relative;
+  object-fit: cover;
+  width: 14px;
+  height: 14px;
+  color: rgb(239, 206, 74) /* plasmic-token: Kph4y8mx9bZgHG */;
+  flex-shrink: 0;
+}
+.svg__vO5Tk {
+  position: relative;
+  object-fit: cover;
+  width: 14px;
+  height: 14px;
+  color: rgb(239, 206, 74) /* plasmic-token: Kph4y8mx9bZgHG */;
+  flex-shrink: 0;
+}
+.svg__rxEso {
+  position: relative;
+  object-fit: cover;
+  width: 14px;
+  height: 14px;
+  color: rgb(239, 206, 74) /* plasmic-token: Kph4y8mx9bZgHG */;
+  flex-shrink: 0;
+}
+.svg__ftcgu {
+  position: relative;
+  object-fit: cover;
+  width: 14px;
+  height: 14px;
+  color: rgb(169, 169, 169) /* plasmic-token: NwSmfAYhUvEcb6 */;
+  flex-shrink: 0;
+}
+.svg__cl0HI {
+  position: relative;
+  object-fit: cover;
+  width: 14px;
+  height: 14px;
+  color: rgb(169, 169, 169) /* plasmic-token: NwSmfAYhUvEcb6 */;
+  flex-shrink: 0;
+}
+.svg__koWlp {
+  position: relative;
+  object-fit: cover;
+  width: 14px;
+  height: 14px;
+  color: rgb(169, 169, 169) /* plasmic-token: NwSmfAYhUvEcb6 */;
+  flex-shrink: 0;
+}
+.svg__yk7Dv {
+  position: relative;
+  object-fit: cover;
+  width: 14px;
+  height: 14px;
+  color: rgb(169, 169, 169) /* plasmic-token: NwSmfAYhUvEcb6 */;
+  flex-shrink: 0;
+}
+.svg__nVdtw {
+  position: relative;
+  object-fit: cover;
+  width: 14px;
+  height: 14px;
+  color: rgb(169, 169, 169) /* plasmic-token: NwSmfAYhUvEcb6 */;
+  flex-shrink: 0;
+}
+.slotNumReviews {
+  font-size: 14px;
+  color: rgb(160, 158, 156) /* plasmic-token: DlH_G_6c4bP0EB */;
+}

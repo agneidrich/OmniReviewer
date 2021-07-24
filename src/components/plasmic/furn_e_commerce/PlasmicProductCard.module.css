@@ -1,0 +1,143 @@
+.root {
+  display: flex;
+  width: 100%;
+  height: 412px;
+  position: relative;
+  flex-direction: column;
+  max-width: 260px;
+  overflow: hidden;
+  background: rgb(255, 255, 255);
+  min-width: 0;
+}
+.root > :global(.__wab_flex-container) {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: calc(0px - 10px);
+  height: calc(100% + 10px);
+}
+.root > :global(.__wab_flex-container) > *,
+.root > :global(.__wab_flex-container) > :global(.__wab_slot) > * {
+  margin-top: 10px;
+}
+.freeBox__rpLk {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  width: 100%;
+  height: 300px;
+  background: #f8f9fd;
+  min-width: 0;
+  flex-shrink: 0;
+}
+.img__vv4Zf {
+  position: relative;
+  object-fit: cover;
+  width: 100%;
+  min-width: 0;
+}
+.freeBox__tr2W {
+  display: flex;
+  position: absolute;
+  left: auto;
+  top: 20px;
+  right: 0px;
+  height: 30px;
+  width: 60px;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  background: rgb(233, 156, 46);
+  flex-shrink: 0;
+}
+.freeBox__vXhl7 {
+  position: relative;
+  color: rgb(255, 255, 255) /* plasmic-token: pRiodFr5JyekJk */;
+}
+.freeBox__fWfGa {
+  display: flex;
+  position: absolute;
+  flex-direction: row;
+  left: 0px;
+  top: auto;
+  width: 100%;
+  bottom: 0px;
+  height: 35px;
+  background: rgb(50, 52, 54);
+  min-width: 0;
+  padding: 10px;
+}
+.freeBox__fWfGa > :global(.__wab_flex-container) {
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  margin-left: calc(0px - 10px);
+  width: calc(100% + 10px);
+}
+.freeBox__fWfGa > :global(.__wab_flex-container) > *,
+.freeBox__fWfGa > :global(.__wab_flex-container) > :global(.__wab_slot) > * {
+  margin-left: 10px;
+}
+.svg__bIqcJ {
+  position: relative;
+  object-fit: cover;
+  color: rgb(255, 255, 255) /* plasmic-token: pRiodFr5JyekJk */;
+  width: 1em;
+  flex-shrink: 0;
+  height: 1em;
+}
+.freeBox__j14BX {
+  position: relative;
+  width: 100%;
+  color: rgb(255, 255, 255) /* plasmic-token: pRiodFr5JyekJk */;
+  min-width: 0;
+}
+.svg__rAkg {
+  position: relative;
+  object-fit: cover;
+  color: rgb(255, 255, 255) /* plasmic-token: pRiodFr5JyekJk */;
+  width: 1em;
+  flex-shrink: 0;
+  height: 1em;
+}
+.svg__d5Eb7 {
+  position: relative;
+  object-fit: cover;
+  color: rgb(255, 255, 255) /* plasmic-token: pRiodFr5JyekJk */;
+  width: 1em;
+  flex-shrink: 0;
+  height: 1em;
+}
+.ratings___0Rahc:global(.__wab_instance) {
+  position: relative;
+}
+.freeBox__t9Lde {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+}
+.freeBox__t9Lde > :global(.__wab_flex-container) {
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  margin-top: calc(0px - 10px);
+  height: calc(100% + 10px);
+}
+.freeBox__t9Lde > :global(.__wab_flex-container) > *,
+.freeBox__t9Lde > :global(.__wab_flex-container) > :global(.__wab_slot) > * {
+  margin-top: 10px;
+}
+.slotTitle {
+  font-size: 18px;
+  font-weight: 500;
+  text-align: center;
+  color: rgb(97, 96, 96) /* plasmic-token: p_thyjkJkq_So5 */;
+}
+.slotPrice {
+  color: rgb(97, 96, 96) /* plasmic-token: p_thyjkJkq_So5 */;
+  text-align: center;
+  font-size: 18px;
+}

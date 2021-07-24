@@ -1,0 +1,104 @@
+.root {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  width: 100vw;
+}
+.freeBox___5KdBm {
+  display: flex;
+  height: 100%;
+  justify-content: space-between;
+  overflow: hidden;
+  width: 100vw;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 128px;
+  padding-bottom: 128px;
+  background: url("./images/tableBanner.jpeg") 0% 0% / cover;
+  min-height: 0;
+}
+.freeBox__rn2X {
+  display: block;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  height: 100%;
+  width: 33%;
+  opacity: 0.95;
+  background: rgb(74, 76, 79);
+  min-height: 0;
+}
+.freeBox___9FwHq {
+  max-width: 1140px;
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  width: 100%;
+  min-width: 0;
+}
+.freeBox__wQ6KA {
+  display: flex;
+  flex-direction: column;
+  width: 40%;
+  padding: 32px 24px;
+}
+.freeBox__wQ6KA > :global(.__wab_flex-container) {
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: center;
+  margin-top: calc(0px - 12px);
+  height: calc(100% + 12px);
+}
+.freeBox__wQ6KA > :global(.__wab_flex-container) > *,
+.freeBox__wQ6KA > :global(.__wab_flex-container) > :global(.__wab_slot) > * {
+  margin-top: 12px;
+}
+.freeBox__lz82I {
+  position: relative;
+  color: rgb(255, 255, 255) /* plasmic-token: pRiodFr5JyekJk */;
+  font-size: 24px;
+  font-weight: 700;
+}
+.freeBox__bGcQd {
+  position: relative;
+  color: rgb(255, 255, 255) /* plasmic-token: pRiodFr5JyekJk */;
+}
+.freeBox__lnuV1 {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+}
+.freeBox___2HOlK {
+  color: rgb(255, 255, 255) /* plasmic-token: pRiodFr5JyekJk */;
+  font-size: 14px;
+}
+.freeBox__rz1Fi {
+  position: relative;
+  color: rgb(233, 156, 46) /* plasmic-token: MwL-ki1Jc3tuU1 */;
+}
+.freeBox__xZkWx {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+}
+.freeBox__xZkWx > :global(.__wab_flex-container) {
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+  margin-left: calc(0px - 8px);
+  width: calc(100% + 8px);
+}
+.freeBox__xZkWx > :global(.__wab_flex-container) > *,
+.freeBox__xZkWx > :global(.__wab_flex-container) > :global(.__wab_slot) > * {
+  margin-left: 8px;
+}
+.linkButton:global(.__wab_instance) {
+  position: relative;
+  flex-shrink: 0;
+}
